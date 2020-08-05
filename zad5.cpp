@@ -2,6 +2,8 @@
 #include <stdio.h>
 using namespace std;
 
+// Komentarz
+
 void print_binary(int number) {
 
     unsigned int mask_tmp = 0x80000000;
