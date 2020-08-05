@@ -2,7 +2,7 @@
 #include <stdio.h>
 using namespace std;
 
-// Komentarz
+// Komentarz2
 
 void print_binary(int number) {
 
